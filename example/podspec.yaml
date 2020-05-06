@@ -1,0 +1,9 @@
+localization:
+  default_locale: en
+
+ext:
+- extensions.html_prettify.HtmlPrettifyExtension:
+    enabled:
+    - post_render
+    disabled:
+    - dev_file_change
