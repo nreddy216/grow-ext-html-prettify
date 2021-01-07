@@ -15,6 +15,6 @@ setup(
     ],
     install_requires=[
         'html5lib==0.9999999',
-        'lxml==3.4.2'
+        'lxml==4.6.2'
     ],
 )
