@@ -14,7 +14,7 @@ setup(
         'html_prettify',
     ],
     install_requires=[
-        'html5lib==0.9999999',
+        'html5lib==0.99999999',
         'lxml==3.4.2'
     ],
 )
